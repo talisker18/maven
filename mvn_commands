@@ -1,0 +1,4 @@
+------------commands
+
+log mvn build output to a file
+  mvn <your parameters> --log-file log.txt
